@@ -1,6 +1,5 @@
 #include "Main.h"
-// Al doilea comentariu
-// Dechide o fereastra opengl
+
 int main(void)
 {
     GLFWwindow* window;
