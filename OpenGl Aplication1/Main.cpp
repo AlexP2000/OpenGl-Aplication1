@@ -1,5 +1,5 @@
 #include "Main.h"
-
+// Dechide o fereastra opengl
 int main(void)
 {
     GLFWwindow* window;
