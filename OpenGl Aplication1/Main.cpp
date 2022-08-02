@@ -1,5 +1,5 @@
 #include "Main.h"
-
+// am adaugat o linie
 int main(void)
 {
     GLFWwindow* window;
