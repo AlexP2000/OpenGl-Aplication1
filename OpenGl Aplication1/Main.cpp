@@ -1,6 +1,7 @@
 #include "Main.h"
 // am adaugat o linie
 //am adaugat a doua linie
+//am adaugat a treia linie
 int main(void)
 {
     GLFWwindow* window;
